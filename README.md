@@ -18,3 +18,8 @@ Google colab上默认的TensorFlow版本和scipy版本太高了
 这里的各种参数详见 main.py,需要注意的是 face 是动漫人物的图片，它的路径是 /data/face，其中文件夹data和主文件main.py在同一目录下。
 
 由于网速的原因代码并没有训练完。
+![Uploading train_03_0193.png…]()
+
+
+
+
