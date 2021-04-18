@@ -19,7 +19,7 @@ Google colab上默认的TensorFlow版本和scipy版本太高了
 
 由于网速的原因代码并没有训练完。
 这是训练了3个epoch后生成的图片
-![3epoch](/GAN_test/train_03_0193.png)
-
+![3epoch](https://github.com/C-Black-Cat/GAN_test/blob/main/train_03_0193.png)
+将300个epoch训练完后结果会更加理想
 
 
